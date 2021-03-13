@@ -1,5 +1,5 @@
         import React from "react";
-        import logo from "./../logo.png"
+        import logo from "./../Images/logo.png"
         import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
         import { faBars } from '@fortawesome/free-solid-svg-icons'
 
@@ -22,6 +22,19 @@
               <li className="nav-item">
                 <a className="nav-link" href="#Photography">Photography</a>
               </li>
+              <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Photography
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">My Favourite</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Landscape</a>
+          <a class="dropdown-item" href="#">Street Photography</a>
+          <a class="dropdown-item" href="#">Product Photography</a>
+          <a class="dropdown-item" href="#">Portrait</a>
+        </div>
+      </li>
               <li className="nav-item">
                 <a className="nav-link" href="#Blog">Blog</a>
               </li>
