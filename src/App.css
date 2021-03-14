@@ -23,7 +23,7 @@
 
 :root {
   --color-white: #fff;
-  --color-main: #f9ab00;
+  --color-main: hsl(290, 46%, 45%);
   --color-dark: rgba(255, 255, 255, 0);
 }
 
