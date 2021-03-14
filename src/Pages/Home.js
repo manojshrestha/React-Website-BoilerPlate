@@ -10,8 +10,9 @@ function Home() {
   return (
     <>
       <Navbar />
-      <div className="body-wrapper">
-        <AboutMe />
+      <div className="container body-wrapper">
+        {/* <AboutMe /> */}
+        <h2>Home</h2>
       </div>
       <Footer />
 
