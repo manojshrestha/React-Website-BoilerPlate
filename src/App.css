@@ -110,6 +110,11 @@ nav li > a:hover {
   padding: 0.313rem;
 }
 
+.body-wrapper{
+  min-height: 95vh;
+  margin-top: 5rem;
+}
+
 /* _________________ For Mobile _________________  */
 
 @media (max-width: 768px) {
