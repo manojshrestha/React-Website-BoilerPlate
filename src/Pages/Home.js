@@ -1,13 +1,16 @@
 import React from "react";
 import "../App.css";
 import Navbar from "../Components/Navbar";
-import Header from "../Components/Header";
+import AboutMe from "../Components/AboutMe";
+
+// import Header from "../Components/Header";
 
 function Home() {
   return (
     <>
       <Navbar />
-      <Header />
+      <AboutMe />
+      {/* <Header /> */}
     </>
   );
 }

@@ -1,0 +1,13 @@
+.aboutme-wrapper{
+    padding: 10px;
+    border-color: black;
+}
+
+.profileDetail{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.profileDetail p{
+    margin: 0rem;
+}
