@@ -7,7 +7,7 @@ export default function Photography() {
   return (
     <>
       <Navbar />
-      <div className="body-wrapper">
+      <div className="container body-wrapper">
         <h1 className="services">Photography</h1>
       </div>
       <Footer />
