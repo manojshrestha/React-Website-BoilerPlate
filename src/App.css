@@ -79,14 +79,29 @@ nav li > a:hover {
 }
 
 /****************** Header ***********************/
+.body-wrapper{
+  min-height: 95vh;
+  margin-top: 5rem;
+}
 
 .header-wrapper {
-  background: url(/src/Images/header.jpg) no-repeat;
+  background: url(/src/Images/AstiaSoft.jpg) no-repeat;
   position: relative;
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 95vh;
+  margin-top: 60px;
   /* font-family: "DefaultFont" !important; */
+}
+
+.header-wrapper h1{
+  color: #fff;
+  align-items: center;
+  vertical-align: middle;
+  justify-content: center;
+  text-align: center;
+  padding: 8rem;
+  margin-top: 50px;
 }
 
 .main-info {
@@ -110,10 +125,7 @@ nav li > a:hover {
   padding: 0.313rem;
 }
 
-.body-wrapper{
-  min-height: 95vh;
-  margin-top: 5rem;
-}
+
 
 /* _________________ For Mobile _________________  */
 

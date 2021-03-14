@@ -1,11 +1,14 @@
 import React from "react";
+import "../App.css";
 
 const Header = () => {
   return (
     <div className="header-wrapper">
-      <div className="main-info">
-        <h1>Mobile App Development and Photography</h1>
-      </div>
+      <h1>
+        Web | Mobile App Development <br />
+        and
+        <br /> Photography
+      </h1>
     </div>
   );
 };
