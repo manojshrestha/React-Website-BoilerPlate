@@ -1,5 +1,5 @@
 # Detail
-This is template or boiler plate to react web application. This contains navigation bar with basic menus, body and footer.
+This is template or boiler plate for react web application. This project contains navigation bar with basic menus, body and footer.
 
 
 # Getting Started with Boiler Plate React Web App using bootstrap
