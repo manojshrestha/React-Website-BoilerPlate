@@ -10,8 +10,8 @@ const Navbar = () => {
         {/* <a className="navbar-brand" href="#">
           <img className="logo" src={logo} alt="logo.." />
         </a> */}
-        <p class="fun">Shrestha</p>
-        <FontAwesomeIcon
+        <p class="fun">Manoj Shrestha</p>
+        {/* <FontAwesomeIcon
           icon={faAppleAlt}
           style={{
             color: "white",
@@ -19,7 +19,7 @@ const Navbar = () => {
             marginLeft: "1rem",
             fontSize: "1.75rem;",
           }}
-        />
+        /> */}
         <button
           className="navbar-toggler"
           type="button"

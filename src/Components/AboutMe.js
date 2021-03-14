@@ -10,7 +10,7 @@ const AboutMe = () => {
         <div class="row">
           <div class="col-lg-3">
             {/* Profile Picture */}
-            <img src={profilePic} alt="Profile pic" className="img-fluid" />
+            <img src={profilePic} alt="Profile pic" className="profilepic" />
             <div className="profileDetail">
               <p>
                 <strong>Age:</strong> 32
@@ -27,7 +27,7 @@ const AboutMe = () => {
             </div>
           </div>
           <div class="col-lg-9">
-            <h2>Manoj Shrestha</h2>
+            <h2>About me</h2>
             <p>
               Use the very first line of your “About Me” page’s portfolio
               introduction to simply tell visitors who you are. Think about how

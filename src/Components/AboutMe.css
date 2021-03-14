@@ -1,6 +1,11 @@
 .aboutme-wrapper{
     padding: 10px;
-    border-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.4);
+    border-style: solid;
 }
 
 .profileDetail{
@@ -10,4 +15,13 @@
 
 .profileDetail p{
     margin: 0rem;
+}
+
+.profilepic{
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.4);
+    border-style: solid;
 }
