@@ -1,15 +1,25 @@
 import React from "react";
 import logo from "./../Images/logo.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faBars } from "@fortawesome/free-solid-svg-icons";
+import { faAppleAlt, faBars } from "@fortawesome/free-solid-svg-icons";
 
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-dark">
       <div className="container">
-        <a className="navbar-brand" href="#">
+        {/* <a className="navbar-brand" href="#">
           <img className="logo" src={logo} alt="logo.." />
-        </a>
+        </a> */}
+        <p class="fun">Shrestha</p>
+        <FontAwesomeIcon
+          icon={faAppleAlt}
+          style={{
+            color: "white",
+            marginRight: "1rem",
+            marginLeft: "1rem",
+            fontSize: "1.75rem;",
+          }}
+        />
         <button
           className="navbar-toggler"
           type="button"
