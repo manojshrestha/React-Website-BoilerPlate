@@ -135,4 +135,14 @@ nav li > a:hover {
     /* text-transform: uppercase; */
     font-size: 1.5rem;
   }
+
+  .header-wrapper h1{
+    color: #fff;
+    align-items: center;
+    vertical-align: middle;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 50px;
+  }
 }
