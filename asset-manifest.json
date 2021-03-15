@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/React-Website-BoilerPlate/static/css/main.3b5c437b.chunk.css",
-    "main.js": "/React-Website-BoilerPlate/static/js/main.accd9907.chunk.js",
-    "main.js.map": "/React-Website-BoilerPlate/static/js/main.accd9907.chunk.js.map",
-    "runtime-main.js": "/React-Website-BoilerPlate/static/js/runtime-main.93630be7.js",
-    "runtime-main.js.map": "/React-Website-BoilerPlate/static/js/runtime-main.93630be7.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/React-Website-BoilerPlate/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.05dada38.chunk.js": "/React-Website-BoilerPlate/static/js/2.05dada38.chunk.js",
-    "static/js/2.05dada38.chunk.js.map": "/React-Website-BoilerPlate/static/js/2.05dada38.chunk.js.map",
-    "static/js/3.de26c5c3.chunk.js": "/React-Website-BoilerPlate/static/js/3.de26c5c3.chunk.js",
-    "static/js/3.de26c5c3.chunk.js.map": "/React-Website-BoilerPlate/static/js/3.de26c5c3.chunk.js.map",
-    "index.html": "/React-Website-BoilerPlate/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/React-Website-BoilerPlate/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.3b5c437b.chunk.css.map": "/React-Website-BoilerPlate/static/css/main.3b5c437b.chunk.css.map",
-    "static/js/2.05dada38.chunk.js.LICENSE.txt": "/React-Website-BoilerPlate/static/js/2.05dada38.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/React-Website-BoilerPlate/static/media/ShadowsIntoLight-Regular.82b02b2e.ttf",
-    "static/media/logo.ad3100d6.png": "/React-Website-BoilerPlate/static/media/logo.ad3100d6.png"
+    "main.css": "/Photography/static/css/main.b7d1ca30.chunk.css",
+    "main.js": "/Photography/static/js/main.accd9907.chunk.js",
+    "main.js.map": "/Photography/static/js/main.accd9907.chunk.js.map",
+    "runtime-main.js": "/Photography/static/js/runtime-main.2ffe8ad8.js",
+    "runtime-main.js.map": "/Photography/static/js/runtime-main.2ffe8ad8.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Photography/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.05dada38.chunk.js": "/Photography/static/js/2.05dada38.chunk.js",
+    "static/js/2.05dada38.chunk.js.map": "/Photography/static/js/2.05dada38.chunk.js.map",
+    "static/js/3.de26c5c3.chunk.js": "/Photography/static/js/3.de26c5c3.chunk.js",
+    "static/js/3.de26c5c3.chunk.js.map": "/Photography/static/js/3.de26c5c3.chunk.js.map",
+    "index.html": "/Photography/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Photography/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b7d1ca30.chunk.css.map": "/Photography/static/css/main.b7d1ca30.chunk.css.map",
+    "static/js/2.05dada38.chunk.js.LICENSE.txt": "/Photography/static/js/2.05dada38.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Photography/static/media/ShadowsIntoLight-Regular.82b02b2e.ttf",
+    "static/media/logo.ad3100d6.png": "/Photography/static/media/logo.ad3100d6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.93630be7.js",
+    "static/js/runtime-main.2ffe8ad8.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.05dada38.chunk.js",
-    "static/css/main.3b5c437b.chunk.css",
+    "static/css/main.b7d1ca30.chunk.css",
     "static/js/main.accd9907.chunk.js"
   ]
 }
