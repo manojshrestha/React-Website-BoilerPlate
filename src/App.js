@@ -11,7 +11,7 @@ function App() {
     <>
       <Router>
         <Switch>
-          <Route path="/" exact component={Home} />
+          <Route path="/React-Website-BoilerPlate" exact component={Home} />
           {/* <Route path='/' exact component={AllPhotos} /> */}
           <Route path="/blog" component={Blog} />
           <Route path="/travel" component={Travel} />
