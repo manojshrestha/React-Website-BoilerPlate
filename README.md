@@ -2,7 +2,7 @@
 https://manojshrestha.github.io/React-Website-BoilerPlate/
 
 # Detail
-This is a template or boiler-plate for react web application. This template is mobile browser compatible. It contains navigation bar with basic menu, body and a footer.
+This is a template for react web application. It is mobile browser compatible. It contains navigation bar with basic menu, body and a footer.
 
 
 # Getting Started with Boiler Plate React Web App using bootstrap
@@ -12,7 +12,7 @@ This is a template or boiler-plate for react web application. This template is m
 4. npm start
 5. Web site should run after the start command on your default browser.
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000/React-Website-BoilerPlate](http://localhost:3000/React-Website-BoilerPlate) to view it in the browser.
 
 # Node Modules used:
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
