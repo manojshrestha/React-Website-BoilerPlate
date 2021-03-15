@@ -1,3 +1,6 @@
+# Live Demo
+https://manojshrestha.github.io/React-Website-BoilerPlate/
+
 # Detail
 This is a template or boiler-plate for react web application. This template is mobile browser compatible. It contains navigation bar with basic menu, body and a footer.
 
