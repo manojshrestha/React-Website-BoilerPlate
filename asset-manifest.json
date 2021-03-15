@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Website-BoilerPlate/static/css/main.0f3adfa9.chunk.css",
-    "main.js": "/React-Website-BoilerPlate/static/js/main.7c314c1d.chunk.js",
-    "main.js.map": "/React-Website-BoilerPlate/static/js/main.7c314c1d.chunk.js.map",
+    "main.css": "/React-Website-BoilerPlate/static/css/main.ddb503e5.chunk.css",
+    "main.js": "/React-Website-BoilerPlate/static/js/main.ea969d0e.chunk.js",
+    "main.js.map": "/React-Website-BoilerPlate/static/js/main.ea969d0e.chunk.js.map",
     "runtime-main.js": "/React-Website-BoilerPlate/static/js/runtime-main.93630be7.js",
     "runtime-main.js.map": "/React-Website-BoilerPlate/static/js/runtime-main.93630be7.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/React-Website-BoilerPlate/static/css/2.4c97ca4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.de26c5c3.chunk.js.map": "/React-Website-BoilerPlate/static/js/3.de26c5c3.chunk.js.map",
     "index.html": "/React-Website-BoilerPlate/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/React-Website-BoilerPlate/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.0f3adfa9.chunk.css.map": "/React-Website-BoilerPlate/static/css/main.0f3adfa9.chunk.css.map",
+    "static/css/main.ddb503e5.chunk.css.map": "/React-Website-BoilerPlate/static/css/main.ddb503e5.chunk.css.map",
     "static/js/2.05dada38.chunk.js.LICENSE.txt": "/React-Website-BoilerPlate/static/js/2.05dada38.chunk.js.LICENSE.txt",
     "static/media/App.css": "/React-Website-BoilerPlate/static/media/ShadowsIntoLight-Regular.82b02b2e.ttf",
     "static/media/logo.ad3100d6.png": "/React-Website-BoilerPlate/static/media/logo.ad3100d6.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.93630be7.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.05dada38.chunk.js",
-    "static/css/main.0f3adfa9.chunk.css",
-    "static/js/main.7c314c1d.chunk.js"
+    "static/css/main.ddb503e5.chunk.css",
+    "static/js/main.ea969d0e.chunk.js"
   ]
 }
