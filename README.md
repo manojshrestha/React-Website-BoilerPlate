@@ -7,9 +7,23 @@ This is a template or boiler-plate for react web application. This template is m
 2. Use terminal or gitbash - In the project directory, you can run:
 3. npm install
 4. npm start
-5. Web site should run after the start command in your default browser.
+5. Web site should run after the start command on your default browser.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+# Node Modules used:
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "bootstrap": "^4.6.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.0.1"
 
 
 # Screen Shot
